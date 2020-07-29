@@ -5992,11 +5992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnd\\Desktop\\TA_Repo\\ASP.NET_Teacher_Demo_ConsoleApp\\ASP.NET_Teacher_Demo_ConsoleUI\\ASP.NET_Teacher_Demo_ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\johnd\\Desktop\\TA_repo\\ASP.NET_Teacher_Demo\\ASP.NET_Teacher_Demo_ConsoleUI\\ASP.NET_Teacher_Demo_ConsoleUI.csproj",
       "projectName": "ASP.NET_Teacher_Demo_ConsoleUI",
-      "projectPath": "C:\\Users\\johnd\\Desktop\\TA_Repo\\ASP.NET_Teacher_Demo_ConsoleApp\\ASP.NET_Teacher_Demo_ConsoleUI\\ASP.NET_Teacher_Demo_ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\johnd\\Desktop\\TA_repo\\ASP.NET_Teacher_Demo\\ASP.NET_Teacher_Demo_ConsoleUI\\ASP.NET_Teacher_Demo_ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\johnd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnd\\Desktop\\TA_Repo\\ASP.NET_Teacher_Demo_ConsoleApp\\ASP.NET_Teacher_Demo_ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\johnd\\Desktop\\TA_repo\\ASP.NET_Teacher_Demo\\ASP.NET_Teacher_Demo_ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PIRPDVnnfQALeTQbJ26djXnOKKzpAIaWhEiB5YGNj0JQ5ztiJ6sRrbWgQ94FFgB0xs/31Ng641+J6YDeEtehQg==",
+  "dgSpecHash": "aHcvOx5GDFrb1zADsh5FfOiE2fS8Y9cEHtYoBKwLQgYYIHDYMvitF+SPOEwMr6A1wcdThSIUUkJAzuRJ00tplg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnd\\Desktop\\TA_Repo\\ASP.NET_Teacher_Demo_ConsoleApp\\ASP.NET_Teacher_Demo_ConsoleUI\\ASP.NET_Teacher_Demo_ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\johnd\\Desktop\\TA_repo\\ASP.NET_Teacher_Demo\\ASP.NET_Teacher_Demo_ConsoleUI\\ASP.NET_Teacher_Demo_ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnd\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\johnd\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
