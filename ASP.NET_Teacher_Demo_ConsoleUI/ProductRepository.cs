@@ -24,7 +24,7 @@ namespace ASP.NET_Teacher_Demo_ConsoleUI
 
         public Product GetProduct(int id)
         {
-            return (Product)_conn.QuerySingle<Product>("SELECT * FROM PRODUCTS WHERE PRODUCTID = @id",
+            return _conn.QuerySingle<Product>("SELECT * FROM PRODUCTS WHERE PRODUCTID = @id",
                 new { id = id });
         }
 
